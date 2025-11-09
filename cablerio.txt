@@ -1,0 +1,36 @@
+cablerio:
+jack triple to female rca composite
+jack triple to female rca component
+firewire psx2 to firewire psx2 x2
+firewire psx2 to firewire 400 apple
+
+hdmi to hdmi x2
+hdmi to minihdmi
+hdmi to microhdmi
+hdmi to displayport
+hdmi to minidisplayport
+
+displayport to displayport x3
+displayport to minidisplayport
+minidisplayport to minidisplayport
+displayport to dvi-d dual link
+
+dvi-d to hdmi
+dvi-d to dvi-d
+vga to vga
+
+black male rca to black male rca
+male composite to male composite
+male s-video to female composite
+male s-video to female s-video
+euroconector to euroconector
+
+trifasico x5
+usb-a to usb-b
+usb-a male to usb-a female
+ethernet cat5.e
+
+----
+
+diskettera externa usb ibm
+pinnacle analog-to-digital capture device blue
